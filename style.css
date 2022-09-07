@@ -1,0 +1,12 @@
+.select-img {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.custom-span {
+  background-color: black;
+  height: 15px;
+  width: 15px;
+}
